@@ -1,0 +1,10 @@
+<prac:main xmlns:prac="https://epam.com/practice7">
+  <!--1 or more repetitions:-->
+  <movie>
+    <id>201</id>
+    <title>string</title>
+    <year>2008</year>
+    <!--1 to 3 repetitions:-->
+    <genre>Horror</genre>
+  </movie>
+</prac:main>

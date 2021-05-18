@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<practice7:cinema xmlns:practice7="https://epam.com/practice7"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="https://epam.com/practice7 input.xsd">
+    <practice7:movie>
+        <practice7:id>1</practice7:id>
+        <practice7:title>"The Shawshank Redemption"</practice7:title>
+        <practice7:year>1994</practice7:year>
+        <practice7:genre>Horror</practice7:genre>
+    </practice7:movie>
+    <practice7:movie>
+        <practice7:id>2</practice7:id>
+        <practice7:title>"The Godfather"</practice7:title>
+        <practice7:year>1972</practice7:year>
+        <practice7:genre>Comedy</practice7:genre>
+    </practice7:movie>
+    <practice7:movie>
+        <practice7:id>3</practice7:id>
+        <practice7:title>"The Dark Knight"</practice7:title>
+        <practice7:year>2008</practice7:year>
+        <practice7:genre>Thriller</practice7:genre>
+    </practice7:movie>
+</practice7:cinema>

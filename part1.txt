@@ -1,0 +1,5 @@
+Login;Name;Email
+ivanov%;Ivan Ivanov;ivanov@mail.com
+петя Магнит папа
+obama;Barack Obama;obama@google.com
+bush;Как-то

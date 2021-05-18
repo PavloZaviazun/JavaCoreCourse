@@ -1,0 +1,30 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜ã·J8©¯·„”/
+L
+java:S6212"/Declare this local variable with "var" instead.(™Ùß8³¯·„”/
+K
+java:S6212"/Declare this local variable with "var" instead.(µÕº;8¼¯·„”/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¾¯·„”/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¿¯·„”/
+L
+java:S62125"/Declare this local variable with "var" instead.(Ç­‚û8Ã¯·„”/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ä¯·„”/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Æ¯·„”/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ç¯·„”/
+Q
+java:S6212h"/Declare this local variable with "var" instead.(Œ‚’üÿÿÿÿ8É¯·„”/
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ê¯·„”/
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Í¯·„”/
+M
+java:S6212"/Declare this local variable with "var" instead.(Ç­‚û8Ï¯·„”/
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ğ¯·„”/
+R
+java:S6212£"/Declare this local variable with "var" instead.(Œ‚’üÿÿÿÿ8Ñ¯·„”/
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ó¯·„”/
+R
+java:S6212¾"/Declare this local variable with "var" instead.(Œ‚’üÿÿÿÿ8Õ¯·„”/
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ö¯·„”/
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ø¯·„”/
+[	java:S106Ü"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Ù¯·„”/
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Û¯·„”/
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8Ü¯·„”/

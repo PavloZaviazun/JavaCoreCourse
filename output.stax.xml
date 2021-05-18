@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+<movie>
+<id>3</id>
+<title>"The Dark Knight"</title>
+<year>2008</year>
+<genre>Thriller</genre>
+</movie>
+<movie>
+<id>1</id>
+<title>"The Shawshank Redemption"</title>
+<year>1994</year>
+<genre>Horror</genre>
+</movie>
+<movie>
+<id>2</id>
+<title>"The Godfather"</title>
+<year>1972</year>
+<genre>Comedy</genre>
+</movie>
+</main>
